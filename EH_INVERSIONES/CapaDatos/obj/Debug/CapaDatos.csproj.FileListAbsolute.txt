@@ -1,0 +1,5 @@
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache

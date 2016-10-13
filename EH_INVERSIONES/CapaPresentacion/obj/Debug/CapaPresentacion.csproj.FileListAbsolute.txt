@@ -1,0 +1,15 @@
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaPresentacion\bin\CapaNegocio.dll
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaPresentacion\bin\itextsharp.dll
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaPresentacion\bin\itextsharp.pdfa.dll
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaPresentacion\bin\CapaNegocio.pdb
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaPresentacion\bin\itextsharp.xml
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\CASA\Desktop\SIS EH INVERSIONES\EH_INVERSIONES\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
